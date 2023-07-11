@@ -1,0 +1,199 @@
+,edge,Correlation.KEs..BP.ES.,proportion,count
+0,Cytoskeleton integrity disruption-apoptosis,POSITIVE CORRELATION,1.0,1
+1,Cytoskeleton integrity disruption-cholestasis,POSITIVE CORRELATION,0.75,3
+2,Cytoskeleton integrity disruption-cholestasis,NEGATIVE CORRELATION,0.25,1
+3,Cytoskeleton integrity disruption-inflammation,POSITIVE CORRELATION,1.0,1
+4,Cytoskeleton integrity disruption-transporter changes,POSITIVE CORRELATION,1.0,2
+5,ER stress/unfolded protein response-apoptosis,POSITIVE CORRELATION,1.0,3
+6,ER stress/unfolded protein response-autophagy,POSITIVE CORRELATION,1.0,2
+7,ER stress/unfolded protein response-bile canalicular changes,POSITIVE CORRELATION,1.0,1
+8,ER stress/unfolded protein response-cholestasis,POSITIVE CORRELATION,0.4444444444444444,4
+9,ER stress/unfolded protein response-cholestasis,NEGATIVE CORRELATION,0.3333333333333333,3
+10,ER stress/unfolded protein response-cholestasis,nomeasure,0.2222222222222222,2
+11,ER stress/unfolded protein response-intracellular bile acid accumulation,POSITIVE CORRELATION,1.0,1
+12,ER stress/unfolded protein response-necropoptosis,POSITIVE CORRELATION,1.0,3
+13,ER stress/unfolded protein response-necrosis,POSITIVE CORRELATION,1.0,1
+14,ER stress/unfolded protein response-transporter changes,NEGATIVE CORRELATION,0.8,4
+15,ER stress/unfolded protein response-transporter changes,POSITIVE CORRELATION,0.2,1
+16,apoptosis-cholestasis,POSITIVE CORRELATION,0.8666666666666667,13
+17,apoptosis-cholestasis,NEGATIVE CORRELATION,0.13333333333333333,2
+18,bile acid metabolism changes-ER stress/unfolded protein response,NEGATIVE CORRELATION,1.0,1
+19,bile acid metabolism changes-cholestasis,NEGATIVE CORRELATION,0.6190476190476191,13
+20,bile acid metabolism changes-cholestasis,POSITIVE CORRELATION,0.2857142857142857,6
+21,bile acid metabolism changes-cholestasis,NO CORRELATION,0.09523809523809523,2
+22,bile acid metabolism changes-inflammation,NO CORRELATION,0.6666666666666666,2
+23,bile acid metabolism changes-inflammation,NEGATIVE CORRELATION,0.3333333333333333,1
+24,bile acid metabolism changes-intracellular bile acid accumulation,POSITIVE CORRELATION,1.0,2
+25,bile acid metabolism changes-nuclear receptor changes,NEGATIVE CORRELATION,0.625,5
+26,bile acid metabolism changes-nuclear receptor changes,NO CORRELATION,0.25,2
+27,bile acid metabolism changes-nuclear receptor changes,POSITIVE CORRELATION,0.125,1
+28,bile acid metabolism changes-oxidative stress,POSITIVE CORRELATION,1.0,1
+29,bile acid synthesis changes-cholestasis,NEGATIVE CORRELATION,0.6,36
+30,bile acid synthesis changes-cholestasis,POSITIVE CORRELATION,0.3333333333333333,20
+31,bile acid synthesis changes-cholestasis,NO CORRELATION,0.06666666666666667,4
+32,bile acid synthesis changes-inflammation,NEGATIVE CORRELATION,0.5555555555555556,5
+33,bile acid synthesis changes-inflammation,POSITIVE CORRELATION,0.3333333333333333,3
+34,bile acid synthesis changes-inflammation,NO CORRELATION,0.1111111111111111,1
+35,bile acid synthesis changes-intracellular bile acid accumulation,POSITIVE CORRELATION,0.6956521739130435,16
+36,bile acid synthesis changes-intracellular bile acid accumulation,NEGATIVE CORRELATION,0.30434782608695654,7
+37,bile acid synthesis changes-non_specified cell death,POSITIVE CORRELATION,1.0,2
+38,bile acid synthesis changes-nuclear receptor changes,POSITIVE CORRELATION,0.5384615384615384,7
+39,bile acid synthesis changes-nuclear receptor changes,NEGATIVE CORRELATION,0.38461538461538464,5
+40,bile acid synthesis changes-nuclear receptor changes,NO CORRELATION,0.07692307692307693,1
+41,bile acid synthesis changes-oxidative stress,NEGATIVE CORRELATION,0.8571428571428571,6
+42,bile acid synthesis changes-oxidative stress,POSITIVE CORRELATION,0.14285714285714285,1
+43,bile acid synthesis changes-transporter changes,POSITIVE CORRELATION,1.0,6
+44,bile canalicular changes-apoptosis,POSITIVE CORRELATION,1.0,8
+45,bile canalicular changes-bile canalicular changes,POSITIVE CORRELATION,1.0,1
+46,bile canalicular changes-cholestasis,POSITIVE CORRELATION,1.0,11
+47,bile canalicular changes-inflammation,POSITIVE CORRELATION,1.0,1
+48,bile canalicular changes-intracellular bile acid accumulation,POSITIVE CORRELATION,1.0,8
+49,bile canalicular changes-mitochondrial impairment,POSITIVE CORRELATION,1.0,1
+50,bile canalicular changes-necrosis,POSITIVE CORRELATION,1.0,2
+51,bile canalicular changes-nuclear receptor changes,NEGATIVE CORRELATION,1.0,4
+52,bile canalicular changes-oxidative stress,POSITIVE CORRELATION,1.0,1
+53,bile canalicular changes-tight junction disruption,NEGATIVE CORRELATION,1.0,1
+54,cholestasis-bile acid synthesis changes,NEGATIVE CORRELATION,0.5,2
+55,cholestasis-bile acid synthesis changes,POSITIVE CORRELATION,0.5,2
+56,cholestasis-inflammation,POSITIVE CORRELATION,1.0,2
+57,cholestasis-novel_Ppara inhibition,NEGATIVE CORRELATION,1.0,1
+58,cholestasis-nuclear receptor changes,NEGATIVE CORRELATION,1.0,2
+59,cholestasis-transporter changes,POSITIVE CORRELATION,0.5,4
+60,cholestasis-transporter changes,NEGATIVE CORRELATION,0.5,4
+61,inflammation-ER stress/unfolded protein response,POSITIVE CORRELATION,1.0,4
+62,inflammation-apoptosis,POSITIVE CORRELATION,0.5,2
+63,inflammation-apoptosis,NO CORRELATION,0.5,2
+64,inflammation-cholestasis,POSITIVE CORRELATION,0.8297872340425532,39
+65,inflammation-cholestasis,NEGATIVE CORRELATION,0.10638297872340426,5
+66,inflammation-cholestasis,nomeasure,0.0425531914893617,2
+67,inflammation-cholestasis,NO CORRELATION,0.02127659574468085,1
+68,inflammation-mitochondrial impairment,POSITIVE CORRELATION,1.0,4
+69,inflammation-necrosis,POSITIVE CORRELATION,1.0,4
+70,inflammation-novel_Ppara inhibition,NEGATIVE CORRELATION,1.0,1
+71,inflammation-oxidative stress,POSITIVE CORRELATION,1.0,1
+72,intracellular bile acid accumulation-ER stress/unfolded protein response,POSITIVE CORRELATION,1.0,5
+73,intracellular bile acid accumulation-apoptosis,POSITIVE CORRELATION,0.8333333333333334,5
+74,intracellular bile acid accumulation-apoptosis,NO CORRELATION,0.16666666666666666,1
+75,intracellular bile acid accumulation-bile acid synthesis changes,POSITIVE CORRELATION,1.0,5
+76,intracellular bile acid accumulation-cholestasis,POSITIVE CORRELATION,0.88,22
+77,intracellular bile acid accumulation-cholestasis,NEGATIVE CORRELATION,0.08,2
+78,intracellular bile acid accumulation-cholestasis,NO CORRELATION,0.04,1
+79,intracellular bile acid accumulation-inflammation,POSITIVE CORRELATION,1.0,9
+80,intracellular bile acid accumulation-necrosis,POSITIVE CORRELATION,0.8333333333333334,5
+81,intracellular bile acid accumulation-necrosis,NO CORRELATION,0.16666666666666666,1
+82,intracellular bile acid accumulation-non_specified cell death,POSITIVE CORRELATION,1.0,3
+83,intracellular bile acid accumulation-novel_procoagulant activity,POSITIVE CORRELATION,1.0,1
+84,intracellular bile acid accumulation-nuclear receptor activation,POSITIVE CORRELATION,1.0,6
+85,intracellular bile acid accumulation-nuclear receptor changes,NEGATIVE CORRELATION,0.6666666666666666,4
+86,intracellular bile acid accumulation-nuclear receptor changes,POSITIVE CORRELATION,0.3333333333333333,2
+87,intracellular bile acid accumulation-oxidative stress,POSITIVE CORRELATION,1.0,10
+88,mitochondrial impairment-cholestasis,POSITIVE CORRELATION,0.5,1
+89,mitochondrial impairment-cholestasis,NEGATIVE CORRELATION,0.5,1
+90,mitochondrial impairment-nuclear receptor changes,NEGATIVE CORRELATION,1.0,1
+91,necrosis-cholestasis,POSITIVE CORRELATION,0.9,9
+92,necrosis-cholestasis,nomeasure,0.1,1
+93,non_specified cell death-cholestasis,POSITIVE CORRELATION,1.0,4
+94,novel_ hepatocyte nuclear factor_1 alpha (HNF_1a) decreased expression-bile acid synthesis changes,POSITIVE CORRELATION,1.0,1
+95,novel_ hepatocyte nuclear factor_1 alpha (HNF_1a) decreased expression-nuclear receptor changes,POSITIVE CORRELATION,1.0,1
+96,novel_ hepatocyte nuclear factor_1 alpha (HNF_1a) decreased expression-transporter changes,POSITIVE CORRELATION,1.0,1
+97,novel_AhR activiation-cholestasis,POSITIVE CORRELATION,1.0,1
+98,novel_AhR activiation-intracellular bile acid accumulation,POSITIVE CORRELATION,1.0,1
+99,novel_AhR activiation-necrosis,POSITIVE CORRELATION,1.0,1
+100,novel_AhR activiation-nuclear receptor changes,NEGATIVE CORRELATION,1.0,2
+101,novel_Bile acid membrane receptor changes-cholestasis,POSITIVE CORRELATION,1.0,1
+102,novel_Crebh activation-ER stress/unfolded protein response,POSITIVE CORRELATION,1.0,2
+103,novel_Crebh activation-intracellular bile acid accumulation,POSITIVE CORRELATION,1.0,2
+104,novel_Crebh activation-oxidative stress,POSITIVE CORRELATION,1.0,2
+105,novel_ERK1/2_LKB1_AMPK pathway activation-cholestasis,POSITIVE CORRELATION,1.0,1
+106,novel_ERK1/2_LKB1_AMPK pathway activation-nuclear receptor changes,NEGATIVE CORRELATION,1.0,2
+107,novel_Fibrosis-cholestasis,POSITIVE CORRELATION,1.0,1
+108,novel_GSH conjugation-cholestasis,POSITIVE CORRELATION,1.0,1
+109,novel_Increased expression amphiregulin (AREG) = EGFR ligand-cholestasis,POSITIVE CORRELATION,1.0,2
+110,novel_Lipogenesis-cholestasis,NEGATIVE CORRELATION,1.0,1
+111,novel_PI3K/Akt signaling pathway-cholestasis,POSITIVE CORRELATION,1.0,1
+112,novel_Ppara inhibition-cholestasis,NEGATIVE CORRELATION,1.0,1
+113,novel_Sirt1-bile acid synthesis changes,POSITIVE CORRELATION,1.0,2
+114,novel_Sirt1-cholestasis,POSITIVE CORRELATION,1.0,1
+115,novel_Sirt1-nuclear receptor changes,POSITIVE CORRELATION,1.0,1
+116,novel_biliary epithelial cell proliferation -cholestasis,nomeasure,1.0,1
+117,novel_canalicular network formation-nuclear receptor changes,NEGATIVE CORRELATION,1.0,1
+118,novel_lipid homeostasis-novel_Cholestasis_associated hepatic steatosis,POSITIVE CORRELATION,1.0,1
+119,nuclear receptor activation-bile acid metabolism changes,POSITIVE CORRELATION,1.0,11
+120,nuclear receptor activation-bile acid synthesis changes,NEGATIVE CORRELATION,0.8823529411764706,15
+121,nuclear receptor activation-bile acid synthesis changes,POSITIVE CORRELATION,0.11764705882352941,2
+122,nuclear receptor activation-transporter changes,POSITIVE CORRELATION,0.9375,15
+123,nuclear receptor activation-transporter changes,NEGATIVE CORRELATION,0.0625,1
+124,nuclear receptor changes-apoptosis,POSITIVE CORRELATION,0.6666666666666666,2
+125,nuclear receptor changes-apoptosis,NEGATIVE CORRELATION,0.3333333333333333,1
+126,nuclear receptor changes-bile acid metabolism changes,POSITIVE CORRELATION,1.0,18
+127,nuclear receptor changes-bile acid synthesis changes,POSITIVE CORRELATION,0.6857142857142857,24
+128,nuclear receptor changes-bile acid synthesis changes,NEGATIVE CORRELATION,0.3142857142857143,11
+129,nuclear receptor changes-cholestasis,NEGATIVE CORRELATION,0.75,69
+130,nuclear receptor changes-cholestasis,POSITIVE CORRELATION,0.15217391304347827,14
+131,nuclear receptor changes-cholestasis,NO CORRELATION,0.09782608695652174,9
+132,nuclear receptor changes-inflammation,NEGATIVE CORRELATION,0.75,6
+133,nuclear receptor changes-inflammation,NO CORRELATION,0.25,2
+134,nuclear receptor changes-intracellular bile acid accumulation,NEGATIVE CORRELATION,1.0,10
+135,nuclear receptor changes-mitochondrial impairment,NEGATIVE CORRELATION,1.0,1
+136,nuclear receptor changes-novel_proatherogenic events,POSITIVE CORRELATION,1.0,2
+137,nuclear receptor changes-nuclear receptor changes,POSITIVE CORRELATION,1.0,5
+138,nuclear receptor changes-oxidative stress,NEGATIVE CORRELATION,0.8,4
+139,nuclear receptor changes-oxidative stress,NO CORRELATION,0.2,1
+140,nuclear receptor changes-transporter changes,POSITIVE CORRELATION,0.8709677419354839,108
+141,nuclear receptor changes-transporter changes,NEGATIVE CORRELATION,0.12903225806451613,16
+142,oxidative stress-ER stress/unfolded protein response,POSITIVE CORRELATION,1.0,3
+143,oxidative stress-apoptosis,POSITIVE CORRELATION,0.5,7
+144,oxidative stress-apoptosis,NEGATIVE CORRELATION,0.35714285714285715,5
+145,oxidative stress-apoptosis,NO CORRELATION,0.14285714285714285,2
+146,oxidative stress-autophagy,POSITIVE CORRELATION,1.0,2
+147,oxidative stress-bile canalicular changes,POSITIVE CORRELATION,1.0,1
+148,oxidative stress-cholestasis,POSITIVE CORRELATION,0.5094339622641509,27
+149,oxidative stress-cholestasis,NEGATIVE CORRELATION,0.39622641509433965,21
+150,oxidative stress-cholestasis,NO CORRELATION,0.07547169811320754,4
+151,oxidative stress-cholestasis,nomeasure,0.018867924528301886,1
+152,oxidative stress-inflammation,POSITIVE CORRELATION,1.0,1
+153,oxidative stress-intracellular bile acid accumulation,POSITIVE CORRELATION,1.0,1
+154,oxidative stress-mitochondrial impairment,POSITIVE CORRELATION,1.0,2
+155,oxidative stress-necropoptosis,POSITIVE CORRELATION,1.0,3
+156,oxidative stress-necrosis,POSITIVE CORRELATION,0.75,3
+157,oxidative stress-necrosis,NEGATIVE CORRELATION,0.25,1
+158,oxidative stress-novel_Ppara inhibition,NEGATIVE CORRELATION,1.0,1
+159,oxidative stress-novel_hepatocanalicular dysfunction,NEGATIVE CORRELATION,1.0,1
+160,oxidative stress-tight junction disruption,POSITIVE CORRELATION,1.0,1
+161,oxidative stress-transporter changes,NEGATIVE CORRELATION,1.0,2
+162,tight junction disruption-apoptosis,NEGATIVE CORRELATION,1.0,1
+163,tight junction disruption-bile canalicular changes,POSITIVE CORRELATION,1.0,1
+164,tight junction disruption-cholestasis,NEGATIVE CORRELATION,0.8,4
+165,tight junction disruption-cholestasis,NO CORRELATION,0.2,1
+166,tight junction disruption-intracellular bile acid accumulation,NEGATIVE CORRELATION,0.5,1
+167,tight junction disruption-intracellular bile acid accumulation,POSITIVE CORRELATION,0.5,1
+168,tight junction disruption-necrosis,NEGATIVE CORRELATION,1.0,1
+169,tight junction disruption-oxidative stress,NEGATIVE CORRELATION,0.5,1
+170,tight junction disruption-oxidative stress,POSITIVE CORRELATION,0.5,1
+171,transporter changes-ER stress/unfolded protein response,NEGATIVE CORRELATION,1.0,4
+172,transporter changes-apoptosis,NEGATIVE CORRELATION,0.7857142857142857,22
+173,transporter changes-apoptosis,POSITIVE CORRELATION,0.21428571428571427,6
+174,transporter changes-bile acid metabolism changes,POSITIVE CORRELATION,0.5,2
+175,transporter changes-bile acid metabolism changes,NEGATIVE CORRELATION,0.5,2
+176,transporter changes-bile acid synthesis changes,POSITIVE CORRELATION,0.5789473684210527,11
+177,transporter changes-bile acid synthesis changes,NEGATIVE CORRELATION,0.42105263157894735,8
+178,transporter changes-cholestasis,NEGATIVE CORRELATION,0.6523605150214592,304
+179,transporter changes-cholestasis,POSITIVE CORRELATION,0.2703862660944206,126
+180,transporter changes-cholestasis,NO CORRELATION,0.060085836909871244,28
+181,transporter changes-cholestasis,nomeasure,0.017167381974248927,8
+182,transporter changes-inflammation,NEGATIVE CORRELATION,0.7727272727272727,51
+183,transporter changes-inflammation,NO CORRELATION,0.15151515151515152,10
+184,transporter changes-inflammation,POSITIVE CORRELATION,0.07575757575757576,5
+185,transporter changes-intracellular bile acid accumulation,NEGATIVE CORRELATION,0.7398373983739838,91
+186,transporter changes-intracellular bile acid accumulation,POSITIVE CORRELATION,0.24390243902439024,30
+187,transporter changes-intracellular bile acid accumulation,NO CORRELATION,0.016260162601626018,2
+188,transporter changes-mitochondrial impairment,NEGATIVE CORRELATION,1.0,7
+189,transporter changes-necrosis,NEGATIVE CORRELATION,1.0,10
+190,transporter changes-non_specified cell death,NEGATIVE CORRELATION,1.0,7
+191,transporter changes-novel_lipid homeostasis,POSITIVE CORRELATION,1.0,2
+192,transporter changes-nuclear receptor changes,NEGATIVE CORRELATION,0.4842105263157895,46
+193,transporter changes-nuclear receptor changes,POSITIVE CORRELATION,0.4421052631578947,42
+194,transporter changes-nuclear receptor changes,NO CORRELATION,0.07368421052631578,7
+195,transporter changes-oxidative stress,NEGATIVE CORRELATION,0.6712328767123288,49
+196,transporter changes-oxidative stress,POSITIVE CORRELATION,0.2054794520547945,15
+197,transporter changes-oxidative stress,NO CORRELATION,0.1232876712328767,9

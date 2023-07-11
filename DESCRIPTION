@@ -1,0 +1,29 @@
+Package: xploreaop
+Title: What the Package Does (One Line, Title Case)
+Version: 1.1.0.9000
+Authors@R: 
+    person("Marc", "Teunis", , "marc.teunis@hu.nl", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-3496-6669"))
+Description: This package is a Shiny dashboard to interactively explore 
+    the Steatosis and Cholestasis Adverse Outcome Pathways, developed by
+    within the Horizon 2020 project called ONTOX.
+License: CC BY 4.0
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Depends: 
+    R (>= 4.0)
+LazyData: true
+Imports: 
+    dplyr,
+    easyPubMed,
+    ggraph,
+    htmlwidgets,
+    igraph,
+    magrittr,
+    networkD3,
+    readr,
+    shiny,
+    shinyWidgets,
+    tidygraph,
+    visNetwork

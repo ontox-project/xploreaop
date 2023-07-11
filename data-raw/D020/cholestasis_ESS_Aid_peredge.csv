@@ -1,0 +1,136 @@
+edge,Aid_count
+Cytoskeleton integrity disruption-apoptosis,1
+Cytoskeleton integrity disruption-cholestasis,3
+Cytoskeleton integrity disruption-inflammation,1
+Cytoskeleton integrity disruption-transporter changes,1
+ER stress/unfolded protein response-apoptosis,2
+ER stress/unfolded protein response-autophagy,1
+ER stress/unfolded protein response-bile canalicular changes,1
+ER stress/unfolded protein response-cholestasis,5
+ER stress/unfolded protein response-intracellular bile acid accumulation,1
+ER stress/unfolded protein response-necropoptosis,1
+ER stress/unfolded protein response-necrosis,1
+ER stress/unfolded protein response-transporter changes,1
+apoptosis-cholestasis,8
+bile acid metabolism changes-ER stress/unfolded protein response,1
+bile acid metabolism changes-cholestasis,16
+bile acid metabolism changes-inflammation,3
+bile acid metabolism changes-intracellular bile acid accumulation,1
+bile acid metabolism changes-nuclear receptor changes,4
+bile acid metabolism changes-oxidative stress,1
+bile acid synthesis changes-cholestasis,29
+bile acid synthesis changes-inflammation,5
+bile acid synthesis changes-intracellular bile acid accumulation,7
+bile acid synthesis changes-non_specified cell death,1
+bile acid synthesis changes-nuclear receptor changes,4
+bile acid synthesis changes-oxidative stress,3
+bile acid synthesis changes-transporter changes,1
+bile canalicular changes-apoptosis,3
+bile canalicular changes-bile canalicular changes,1
+bile canalicular changes-cholestasis,3
+bile canalicular changes-inflammation,1
+bile canalicular changes-intracellular bile acid accumulation,3
+bile canalicular changes-mitochondrial impairment,1
+bile canalicular changes-necrosis,1
+bile canalicular changes-nuclear receptor changes,1
+bile canalicular changes-oxidative stress,1
+bile canalicular changes-tight junction disruption,1
+cholestasis-bile acid synthesis changes,1
+cholestasis-inflammation,2
+cholestasis-novel_Ppara inhibition,1
+cholestasis-nuclear receptor changes,1
+cholestasis-transporter changes,1
+inflammation-ER stress/unfolded protein response,1
+inflammation-apoptosis,3
+inflammation-cholestasis,33
+inflammation-mitochondrial impairment,1
+inflammation-necrosis,4
+inflammation-novel_Ppara inhibition,1
+inflammation-oxidative stress,1
+intracellular bile acid accumulation-ER stress/unfolded protein response,2
+intracellular bile acid accumulation-apoptosis,3
+intracellular bile acid accumulation-bile acid synthesis changes,2
+intracellular bile acid accumulation-cholestasis,15
+intracellular bile acid accumulation-inflammation,4
+intracellular bile acid accumulation-necrosis,3
+intracellular bile acid accumulation-non_specified cell death,2
+intracellular bile acid accumulation-novel_procoagulant activity,1
+intracellular bile acid accumulation-nuclear receptor activation,3
+intracellular bile acid accumulation-nuclear receptor changes,3
+intracellular bile acid accumulation-oxidative stress,5
+mitochondrial impairment-cholestasis,2
+mitochondrial impairment-nuclear receptor changes,1
+necrosis-cholestasis,9
+non_specified cell death-cholestasis,2
+novel_ hepatocyte nuclear factor_1 alpha (HNF_1a) decreased expression-bile acid synthesis changes,1
+novel_ hepatocyte nuclear factor_1 alpha (HNF_1a) decreased expression-nuclear receptor changes,1
+novel_ hepatocyte nuclear factor_1 alpha (HNF_1a) decreased expression-transporter changes,1
+novel_AhR activiation-cholestasis,1
+novel_AhR activiation-intracellular bile acid accumulation,1
+novel_AhR activiation-necrosis,1
+novel_AhR activiation-nuclear receptor changes,1
+novel_Bile acid membrane receptor changes-cholestasis,1
+novel_Crebh activation-ER stress/unfolded protein response,1
+novel_Crebh activation-intracellular bile acid accumulation,1
+novel_Crebh activation-oxidative stress,1
+novel_ERK1/2_LKB1_AMPK pathway activation-cholestasis,1
+novel_ERK1/2_LKB1_AMPK pathway activation-nuclear receptor changes,1
+novel_Fibrosis-cholestasis,1
+novel_GSH conjugation-cholestasis,1
+novel_Increased expression amphiregulin (AREG) = EGFR ligand-cholestasis,1
+novel_Lipogenesis-cholestasis,1
+novel_PI3K/Akt signaling pathway-cholestasis,1
+novel_Ppara inhibition-cholestasis,1
+novel_Sirt1-bile acid synthesis changes,1
+novel_Sirt1-cholestasis,1
+novel_Sirt1-nuclear receptor changes,1
+novel_biliary epithelial cell proliferation -cholestasis,1
+novel_canalicular network formation-nuclear receptor changes,1
+novel_lipid homeostasis-novel_Cholestasis_associated hepatic steatosis,1
+nuclear receptor activation-bile acid metabolism changes,2
+nuclear receptor activation-bile acid synthesis changes,7
+nuclear receptor activation-transporter changes,4
+nuclear receptor changes-apoptosis,2
+nuclear receptor changes-bile acid metabolism changes,3
+nuclear receptor changes-bile acid synthesis changes,10
+nuclear receptor changes-cholestasis,41
+nuclear receptor changes-inflammation,6
+nuclear receptor changes-intracellular bile acid accumulation,4
+nuclear receptor changes-mitochondrial impairment,1
+nuclear receptor changes-novel_proatherogenic events,1
+nuclear receptor changes-nuclear receptor changes,1
+nuclear receptor changes-oxidative stress,2
+nuclear receptor changes-transporter changes,12
+oxidative stress-ER stress/unfolded protein response,1
+oxidative stress-apoptosis,4
+oxidative stress-autophagy,1
+oxidative stress-bile canalicular changes,1
+oxidative stress-cholestasis,28
+oxidative stress-inflammation,1
+oxidative stress-intracellular bile acid accumulation,1
+oxidative stress-mitochondrial impairment,1
+oxidative stress-necropoptosis,1
+oxidative stress-necrosis,3
+oxidative stress-novel_Ppara inhibition,1
+oxidative stress-novel_hepatocanalicular dysfunction,1
+oxidative stress-tight junction disruption,1
+oxidative stress-transporter changes,1
+tight junction disruption-apoptosis,1
+tight junction disruption-bile canalicular changes,1
+tight junction disruption-cholestasis,3
+tight junction disruption-intracellular bile acid accumulation,2
+tight junction disruption-necrosis,1
+tight junction disruption-oxidative stress,1
+transporter changes-ER stress/unfolded protein response,1
+transporter changes-apoptosis,4
+transporter changes-bile acid metabolism changes,1
+transporter changes-bile acid synthesis changes,4
+transporter changes-cholestasis,85
+transporter changes-inflammation,15
+transporter changes-intracellular bile acid accumulation,20
+transporter changes-mitochondrial impairment,2
+transporter changes-necrosis,1
+transporter changes-non_specified cell death,2
+transporter changes-novel_lipid homeostasis,1
+transporter changes-nuclear receptor changes,14
+transporter changes-oxidative stress,12

@@ -1,0 +1,45 @@
+source,target,weight
+Cytoskeleton integrity disruption,cholestasis,2.525998699938657
+ER stress/unfolded protein response,cholestasis,2.5121027128626126
+apoptosis,cholestasis,2.5511458968251226
+bile acid metabolism changes,cholestasis,2.5332930252782795
+bile acid metabolism changes,inflammation,2.4414086949260296
+bile acid metabolism changes,nuclear receptor changes,2.461528232527356
+bile acid synthesis changes,cholestasis,2.969020011103531
+bile acid synthesis changes,inflammation,2.485659998372509
+bile acid synthesis changes,intracellular bile acid accumulation,2.668680642804664
+bile acid synthesis changes,nuclear receptor changes,2.5661031992476255
+bile acid synthesis changes,oxidative stress,2.557001703010993
+bile canalicular changes,apoptosis,2.503145405083498
+bile canalicular changes,cholestasis,2.831112056218724
+bile canalicular changes,intracellular bile acid accumulation,2.580489427079232
+inflammation,apoptosis,2.4414086949260296
+inflammation,cholestasis,2.7948512335441
+inflammation,necrosis,2.464867581302765
+intracellular bile acid accumulation,apoptosis,2.503443538762205
+intracellular bile acid accumulation,cholestasis,2.7715174813853984
+intracellular bile acid accumulation,inflammation,2.5158555460827436
+intracellular bile acid accumulation,necrosis,2.453301623799503
+intracellular bile acid accumulation,nuclear receptor activation,2.461307143559161
+intracellular bile acid accumulation,nuclear receptor changes,2.461566682782694
+intracellular bile acid accumulation,oxidative stress,2.5172397552749177
+necrosis,cholestasis,2.479682873781776
+nuclear receptor activation,bile acid synthesis changes,2.6501030487415234
+nuclear receptor activation,transporter changes,2.51324675215876
+nuclear receptor changes,bile acid metabolism changes,2.5036129199862405
+nuclear receptor changes,bile acid synthesis changes,2.8537832802642553
+nuclear receptor changes,cholestasis,3.352087894660322
+nuclear receptor changes,inflammation,2.471244788649563
+nuclear receptor changes,intracellular bile acid accumulation,2.474151716252254
+nuclear receptor changes,transporter changes,4.415804371141617
+oxidative stress,apoptosis,2.4979375739992005
+oxidative stress,cholestasis,2.8202964288055528
+oxidative stress,necrosis,2.468293587352522
+tight junction disruption,cholestasis,2.4836892785865916
+transporter changes,apoptosis,2.545663090514446
+transporter changes,bile acid synthesis changes,2.6250100265129155
+transporter changes,cholestasis,8.0
+transporter changes,inflammation,2.8322838816026903
+transporter changes,intracellular bile acid accumulation,3.7572255617102437
+transporter changes,nuclear receptor changes,2.8584581653046075
+transporter changes,oxidative stress,3.225432771368599

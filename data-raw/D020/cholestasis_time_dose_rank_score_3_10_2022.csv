@@ -1,0 +1,136 @@
+edge,Time.concordance..EP.,time_freq,Dose.concordance..EP.,dose_freq,edge_count,Aid_count,time_score,time_score_positive,dose_score,dose_score_positive,EE_total_score,EE_Nscore,EE_score_rank,EE_rank
+oxidative stress-cholestasis,True,0.018867924528301886,True,0.07547169811320754,53,28,1.0,1.0,4.0,4.0,5.0,1.463917525773196,low,1
+tight junction disruption-bile canalicular changes,True,1.0,nomeasure,0.0,1,1,1.0,1.0,0.0,0.0,1.0,1.0927835051546393,low,1
+oxidative stress-bile canalicular changes,nomeasure,0.0,nomeasure,0.0,1,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+oxidative stress-tight junction disruption,nomeasure,0.0,nomeasure,0.0,1,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+novel_AhR activiation-necrosis,nomeasure,0.0,nomeasure,0.0,1,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+novel_AhR activiation-cholestasis,nomeasure,0.0,nomeasure,0.0,1,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+novel_AhR activiation-intracellular bile acid accumulation,nomeasure,0.0,nomeasure,0.0,1,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+inflammation-cholestasis,True,0.06382978723404255,True,0.02127659574468085,47,33,2.9999999999999996,2.9999999999999996,1.0,1.0,3.9999999999999996,1.3711340206185567,low,1
+inflammation-necrosis,True,0.25,nomeasure,0.0,4,4,1.0,1.0,0.0,0.0,1.0,1.0927835051546393,low,1
+oxidative stress-necrosis,True,0.25,nomeasure,0.0,4,3,1.0,1.0,0.0,0.0,1.0,1.0927835051546393,low,1
+necrosis-cholestasis,nomeasure,0.0,nomeasure,0.0,10,9,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+novel_Crebh activation-oxidative stress,nomeasure,0.0,nomeasure,0.0,2,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+novel_Crebh activation-ER stress/unfolded protein response,nomeasure,0.0,nomeasure,0.0,2,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+novel_Crebh activation-intracellular bile acid accumulation,nomeasure,0.0,nomeasure,0.0,2,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+intracellular bile acid accumulation-inflammation,True,0.1111111111111111,True,0.1111111111111111,9,4,1.0,1.0,1.0,1.0,2.0,1.1855670103092784,low,1
+inflammation-ER stress/unfolded protein response,True,1.0,True,1.0,4,1,4.0,4.0,4.0,4.0,8.0,1.7422680412371134,low,1
+inflammation-mitochondrial impairment,True,1.0,True,1.0,4,1,4.0,4.0,4.0,4.0,8.0,1.7422680412371134,low,1
+bile canalicular changes-cholestasis,True,0.8181818181818182,True,0.9090909090909091,11,3,9.0,9.0,10.0,10.0,19.0,2.7628865979381443,middle,2
+bile canalicular changes-bile canalicular changes,True,1.0,True,1.0,1,1,1.0,1.0,1.0,1.0,2.0,1.1855670103092784,low,1
+bile canalicular changes-intracellular bile acid accumulation,True,0.375,True,0.375,8,3,3.0,3.0,3.0,3.0,6.0,1.556701030927835,low,1
+intracellular bile acid accumulation-oxidative stress,True,0.1,True,0.1,10,5,1.0,1.0,1.0,1.0,2.0,1.1855670103092784,low,1
+intracellular bile acid accumulation-apoptosis,True,0.16666666666666666,True,0.16666666666666666,6,3,1.0,1.0,1.0,1.0,2.0,1.1855670103092784,low,1
+ER stress/unfolded protein response-bile canalicular changes,True,1.0,True,1.0,1,1,1.0,1.0,1.0,1.0,2.0,1.1855670103092784,low,1
+intracellular bile acid accumulation-cholestasis,True,0.08,yes,0.36,25,15,2.0,2.0,9.0,9.0,11.0,2.020618556701031,low,1
+novel_GSH conjugation-cholestasis,nomeasure,0.0,nomeasure,0.0,1,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+non_specified cell death-cholestasis,nomeasure,0.0,nomeasure,0.0,4,2,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+mitochondrial impairment-cholestasis,nomeasure,0.0,nomeasure,0.0,2,2,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+intracellular bile acid accumulation-necrosis,nomeasure,0.0,nomeasure,0.0,6,3,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+Cytoskeleton integrity disruption-cholestasis,False,0.5,yes,0.5,4,3,2.0,2.0,2.0,2.0,4.0,1.3711340206185567,low,1
+intracellular bile acid accumulation-non_specified cell death,nomeasure,0.0,False,0.3333333333333333,3,2,0.0,0.0,1.0,1.0,1.0,1.0927835051546393,low,1
+intracellular bile acid accumulation-novel_procoagulant activity,nomeasure,0.0,True,1.0,1,1,0.0,0.0,1.0,1.0,1.0,1.0927835051546393,low,1
+apoptosis-cholestasis,True,0.13333333333333333,nomeasure,0.0,15,8,2.0,2.0,0.0,0.0,2.0,1.1855670103092784,low,1
+inflammation-apoptosis,nomeasure,0.0,nomeasure,0.0,4,3,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+oxidative stress-apoptosis,nomeasure,0.0,nomeasure,0.0,14,4,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+ER stress/unfolded protein response-apoptosis,nomeasure,0.0,nomeasure,0.0,3,2,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+ER stress/unfolded protein response-cholestasis,True,0.2222222222222222,nomeasure,0.0,9,5,2.0,2.0,0.0,0.0,2.0,1.1855670103092784,low,1
+bile canalicular changes-apoptosis,True,0.375,nomeasure,0.0,8,3,3.0,3.0,0.0,0.0,3.0,1.2783505154639174,low,1
+tight junction disruption-apoptosis,True,1.0,nomeasure,0.0,1,1,1.0,1.0,0.0,0.0,1.0,1.0927835051546393,low,1
+bile canalicular changes-tight junction disruption,True,1.0,nomeasure,0.0,1,1,1.0,1.0,0.0,0.0,1.0,1.0927835051546393,low,1
+intracellular bile acid accumulation-ER stress/unfolded protein response,nomeasure,0.0,nomeasure,0.0,5,2,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+bile canalicular changes-inflammation,nomeasure,0.0,nomeasure,0.0,1,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+bile canalicular changes-oxidative stress,nomeasure,0.0,nomeasure,0.0,1,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+bile canalicular changes-mitochondrial impairment,nomeasure,0.0,nomeasure,0.0,1,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+ER stress/unfolded protein response-autophagy,nomeasure,0.0,nomeasure,0.0,2,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+oxidative stress-autophagy,nomeasure,0.0,nomeasure,0.0,2,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+ER stress/unfolded protein response-necrosis,nomeasure,0.0,nomeasure,0.0,1,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+oxidative stress-ER stress/unfolded protein response,nomeasure,0.0,nomeasure,0.0,3,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+ER stress/unfolded protein response-necropoptosis,nomeasure,0.0,nomeasure,0.0,3,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+oxidative stress-necropoptosis,nomeasure,0.0,nomeasure,0.0,3,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+novel_biliary epithelial cell proliferation-cholestasis,nomeasure,0.0,nomeasure,0.0,1,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+oxidative stress-novel_hepatocanalicular dysfunction,nomeasure,0.0,nomeasure,0.0,1,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+nuclear receptor activation-bile acid synthesis changes,nomeasure,0.0,True,0.4117647058823529,17,7,0.0,0.0,7.0,7.0,7.0,1.6494845360824741,low,1
+intracellular bile acid accumulation-nuclear receptor activation,nomeasure,0.0,nomeasure,0.0,6,3,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+oxidative stress-mitochondrial impairment,True,1.0,nomeasure,0.0,2,1,2.0,2.0,0.0,0.0,2.0,1.1855670103092784,low,1
+novel_ERK1/2_LKB1_AMPK pathway activation-cholestasis,nomeasure,0.0,nomeasure,0.0,1,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+tight junction disruption-oxidative stress,nomeasure,0.0,nomeasure,0.0,2,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+tight junction disruption-cholestasis,nomeasure,0.0,yes,0.4,5,3,0.0,0.0,2.0,2.0,2.0,1.1855670103092784,low,1
+tight junction disruption-necrosis,nomeasure,0.0,nomeasure,0.0,1,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+tight junction disruption-intracellular bile acid accumulation,nomeasure,0.0,yes,1.0,2,2,0.0,0.0,2.0,2.0,2.0,1.1855670103092784,low,1
+Cytoskeleton integrity disruption-inflammation,nomeasure,0.0,nomeasure,0.0,1,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+Cytoskeleton integrity disruption-apoptosis,nomeasure,0.0,nomeasure,0.0,1,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+inflammation-oxidative stress,nomeasure,0.0,nomeasure,0.0,1,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+oxidative stress-inflammation,nomeasure,0.0,nomeasure,0.0,1,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+cholestasis-inflammation,nomeasure,0.0,False,0.5,2,2,0.0,0.0,1.0,1.0,1.0,1.0927835051546393,low,1
+bile canalicular changes-necrosis,True,1.0,nomeasure,0.0,2,1,2.0,2.0,0.0,0.0,2.0,1.1855670103092784,low,1
+novel_Bile acid membrane receptor changes-cholestasis,nomeasure,0.0,nomeasure,0.0,1,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+novel_Lipogenesis-cholestasis,nomeasure,0.0,nomeasure,0.0,1,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+novel_PI3K/Akt signaling pathway-cholestasis,nomeasure,0.0,nomeasure,0.0,1,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+novel_lipid homeostasis-novel_Cholestasis_associated hepatic steatosis,nomeasure,0.0,nomeasure,0.0,1,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+novel_Fibrosis-cholestasis,True,1.0,nomeasure,0.0,1,1,1.0,1.0,0.0,0.0,1.0,1.0927835051546393,low,1
+ER stress/unfolded protein response-intracellular bile acid accumulation,True,1.0,nomeasure,0.0,1,1,1.0,1.0,0.0,0.0,1.0,1.0927835051546393,low,1
+oxidative stress-intracellular bile acid accumulation,True,1.0,nomeasure,0.0,1,1,1.0,1.0,0.0,0.0,1.0,1.0927835051546393,low,1
+novel_Sirt1-cholestasis,nomeasure,0.0,nomeasure,0.0,1,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+cholestasis-novel_Ppara inhibition,nomeasure,0.0,nomeasure,0.0,1,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+inflammation-novel_Ppara inhibition,nomeasure,0.0,nomeasure,0.0,1,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+oxidative stress-novel_Ppara inhibition,nomeasure,0.0,nomeasure,0.0,1,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+novel_Ppara inhibition-cholestasis,nomeasure,0.0,nomeasure,0.0,1,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+novel_Increased expression amphiregulin (AREG) = EGFR ligand-cholestasis,nomeasure,0.0,nomeasure,0.0,2,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+nuclear receptor changes-transporter changes,False,0.008064516129032258,yes,0.5806451612903226,124,12,1.0,1.0,72.0,72.0,73.0,7.77319587628866,high,3
+nuclear receptor changes-bile acid synthesis changes,nomeasure,0.0,True,0.37142857142857144,35,10,0.0,0.0,13.0,13.0,13.0,2.2061855670103094,low,1
+bile acid synthesis changes-transporter changes,nomeasure,0.0,True,1.0,6,1,0.0,0.0,6.0,6.0,6.0,1.556701030927835,low,1
+transporter changes-nuclear receptor changes,nomeasure,0.0,nomeasure,0.0,95,14,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+transporter changes-bile acid synthesis changes,nomeasure,0.0,True,0.3157894736842105,19,4,0.0,0.0,6.0,6.0,6.0,1.556701030927835,low,1
+transporter changes-bile acid metabolism changes,nomeasure,0.0,nomeasure,0.0,4,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+nuclear receptor changes-nuclear receptor changes,nomeasure,0.0,True,1.0,5,1,0.0,0.0,5.0,5.0,5.0,1.463917525773196,low,1
+bile acid metabolism changes-nuclear receptor changes,nomeasure,0.0,nomeasure,0.0,8,4,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+bile acid synthesis changes-nuclear receptor changes,nomeasure,0.0,True,0.3076923076923077,13,4,0.0,0.0,4.0,4.0,4.0,1.3711340206185567,low,1
+intracellular bile acid accumulation-nuclear receptor changes,nomeasure,0.0,nomeasure,0.0,6,3,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+transporter changes-intracellular bile acid accumulation,True,0.0975609756097561,yes,0.2032520325203252,123,20,12.0,12.0,25.0,25.0,37.0,4.43298969072165,middle,2
+nuclear receptor changes-bile acid metabolism changes,nomeasure,0.0,nomeasure,0.0,18,3,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+transporter changes-cholestasis,True,0.023605150214592276,True,0.18454935622317598,466,85,11.0,11.0,86.0,86.0,97.0,10.0,high,3
+transporter changes-oxidative stress,nomeasure,0.0,True,0.3287671232876712,73,12,0.0,0.0,24.0,24.0,24.0,3.2268041237113403,middle,2
+transporter changes-inflammation,nomeasure,0.0,True,0.06060606060606061,66,15,0.0,0.0,4.0,4.0,4.0,1.3711340206185567,low,1
+transporter changes-mitochondrial impairment,nomeasure,0.0,True,0.5714285714285714,7,2,0.0,0.0,4.0,4.0,4.0,1.3711340206185567,low,1
+transporter changes-ER stress/unfolded protein response,nomeasure,0.0,nomeasure,0.0,4,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+transporter changes-apoptosis,nomeasure,0.0,nomeasure,0.0,28,4,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+bile acid synthesis changes-cholestasis,True,0.016666666666666666,True,0.15,60,29,1.0,1.0,9.0,9.0,10.0,1.9278350515463918,low,1
+transporter changes-non_specified cell death,nomeasure,0.0,True,0.8571428571428571,7,2,0.0,0.0,6.0,6.0,6.0,1.556701030927835,low,1
+transporter changes-novel_lipid homeostasis,nomeasure,0.0,nomeasure,0.0,2,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+nuclear receptor changes-oxidative stress,nomeasure,0.0,True,0.6,5,2,0.0,0.0,3.0,3.0,3.0,1.2783505154639174,low,1
+nuclear receptor changes-cholestasis,True,0.043478260869565216,True,0.15217391304347827,92,41,4.0,4.0,14.0,14.0,18.0,2.6701030927835054,middle,2
+nuclear receptor changes-inflammation,nomeasure,0.0,nomeasure,0.0,8,6,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+nuclear receptor changes-mitochondrial impairment,nomeasure,0.0,nomeasure,0.0,1,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+nuclear receptor changes-apoptosis,nomeasure,0.0,nomeasure,0.0,3,2,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+nuclear receptor changes-intracellular bile acid accumulation,nomeasure,0.0,nomeasure,0.0,10,4,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+nuclear receptor changes-novel_proatherogenic events,nomeasure,0.0,nomeasure,0.0,2,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+bile acid metabolism changes-ER stress/unfolded protein response,nomeasure,0.0,nomeasure,0.0,1,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+bile acid synthesis changes-non_specified cell death,nomeasure,0.0,nomeasure,0.0,2,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+bile acid synthesis changes-inflammation,nomeasure,0.0,True,0.1111111111111111,9,5,0.0,0.0,1.0,1.0,1.0,1.0927835051546393,low,1
+bile acid synthesis changes-oxidative stress,nomeasure,0.0,True,0.7142857142857143,7,3,0.0,0.0,5.0,5.0,5.0,1.463917525773196,low,1
+bile acid metabolism changes-inflammation,nomeasure,0.0,nomeasure,0.0,3,3,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+bile acid metabolism changes-cholestasis,nomeasure,0.0,nomeasure,0.0,21,16,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+bile acid synthesis changes-intracellular bile acid accumulation,True,0.08695652173913043,yes,0.21739130434782608,23,7,2.0,2.0,5.0,5.0,7.0,1.6494845360824741,low,1
+bile acid metabolism changes-intracellular bile acid accumulation,nomeasure,0.0,nomeasure,0.0,2,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+bile acid metabolism changes-oxidative stress,nomeasure,0.0,nomeasure,0.0,1,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+transporter changes-necrosis,nomeasure,0.0,nomeasure,0.0,10,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+Cytoskeleton integrity disruption-transporter changes,nomeasure,0.0,nomeasure,0.0,2,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+nuclear receptor activation-transporter changes,nomeasure,0.0,True,0.0625,16,4,0.0,0.0,1.0,1.0,1.0,1.0927835051546393,low,1
+ER stress/unfolded protein response-transporter changes,nomeasure,0.0,nomeasure,0.0,5,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+oxidative stress-transporter changes,nomeasure,0.0,nomeasure,0.0,2,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+novel_ hepatocyte nuclear factor_1 alpha (HNF_1a) decreased expression-transporter changes,nomeasure,0.0,nomeasure,0.0,1,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+cholestasis-transporter changes,nomeasure,0.0,nomeasure,0.0,8,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+novel_AhR activiation-nuclear receptor changes,nomeasure,0.0,nomeasure,0.0,2,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+mitochondrial impairment-nuclear receptor changes,True,1.0,nomeasure,0.0,1,1,1.0,1.0,0.0,0.0,1.0,1.0927835051546393,low,1
+novel_canalicular network formation-nuclear receptor changes,True,1.0,True,1.0,1,1,1.0,1.0,1.0,1.0,2.0,1.1855670103092784,low,1
+bile canalicular changes-nuclear receptor changes,nomeasure,0.0,nomeasure,0.0,4,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+novel_ERK1/2_LKB1_AMPK pathway activation-nuclear receptor changes,nomeasure,0.0,nomeasure,0.0,2,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+novel_ hepatocyte nuclear factor_1 alpha (HNF_1a) decreased expression-nuclear receptor changes,nomeasure,0.0,nomeasure,0.0,1,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+novel_ hepatocyte nuclear factor_1 alpha (HNF_1a) decreased expression-bile acid synthesis changes,nomeasure,0.0,nomeasure,0.0,1,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+novel_Sirt1-nuclear receptor changes,nomeasure,0.0,nomeasure,0.0,1,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+cholestasis-nuclear receptor changes,True,1.0,yes,1.0,2,1,2.0,2.0,2.0,2.0,4.0,1.3711340206185567,low,1
+nuclear receptor activation-bile acid metabolism changes,nomeasure,0.0,nomeasure,0.0,11,2,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+intracellular bile acid accumulation-bile acid synthesis changes,nomeasure,0.0,True,0.2,5,2,0.0,0.0,1.0,1.0,1.0,1.0927835051546393,low,1
+novel_Sirt1-bile acid synthesis changes,nomeasure,0.0,nomeasure,0.0,2,1,0.0,0.0,0.0,0.0,0.0,1.0,low,1
+cholestasis-bile acid synthesis changes,True,1.0,False,1.0,4,1,4.0,4.0,4.0,4.0,8.0,1.7422680412371134,low,1

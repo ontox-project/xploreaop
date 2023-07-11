@@ -1,0 +1,22 @@
+source,target,weight
+oxidative stress,cholestasis,1
+inflammation,cholestasis,1
+necrosis,cholestasis,1
+intracellular bile acid accumulation,oxidative stress,1
+intracellular bile acid accumulation,cholestasis,1
+apoptosis,cholestasis,1
+ER stress/unfolded protein response,cholestasis,1
+nuclear receptor activation,bile acid synthesis changes,1
+nuclear receptor changes,transporter changes,3
+nuclear receptor changes,bile acid synthesis changes,1
+transporter changes,nuclear receptor changes,1
+transporter changes,intracellular bile acid accumulation,2
+transporter changes,cholestasis,3
+transporter changes,oxidative stress,2
+transporter changes,inflammation,1
+bile acid synthesis changes,cholestasis,1
+nuclear receptor changes,cholestasis,2
+nuclear receptor changes,inflammation,1
+bile acid synthesis changes,inflammation,1
+bile acid metabolism changes,cholestasis,1
+bile acid synthesis changes,intracellular bile acid accumulation,1

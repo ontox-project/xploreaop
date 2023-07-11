@@ -1,0 +1,12 @@
+url,file
+https://raw.githubusercontent.com/ontox-hu/aop-cholestasis/main/data-raw/,cholestasis_grouped_data_08_11_22.csv
+https://raw.githubusercontent.com/ontox-hu/aop-cholestasis/main/data-raw/,cholestasis_step0_ee_scoring.txt
+https://raw.githubusercontent.com/ontox-hu/aop-cholestasis/main/data-raw/,cholestasis_step1_ess_scoring.txt
+https://raw.githubusercontent.com/ontox-hu/aop-cholestasis/main/data-raw/,cholestasis_step2_bp_scoring.txt
+https://raw.githubusercontent.com/ontox-hu/aop-cholestasis/main/data-raw/,cholestasis_step3_tot_scoring.txt
+https://raw.githubusercontent.com/ontox-hu/aop-cholestasis/main/data-raw/,aop_cholestasis_final2.cys
+https://raw.githubusercontent.com/ontox-project/aop-steatosis/main/data-raw/,steatosis_raw_v7_09_06_2022.csv
+https://raw.githubusercontent.com/ontox-project/aop-steatosis/main/data-raw/,steatosis_EE_countFliter_nodes_inoriginalrank.csv
+https://raw.githubusercontent.com/ontox-project/aop-steatosis/main/data-raw/,steatosis_EE_countFliter_edge_weight.csv
+https://raw.githubusercontent.com/ontox-project/aop-steatosis/main/data-raw/,ONTOX_steatosis_EE_Aidcount4.cys
+https://raw.githubusercontent.com/ontox-project/aop-steatosis/main/data-raw/,ONTOX_steatosis_EE_Aidcount4.png

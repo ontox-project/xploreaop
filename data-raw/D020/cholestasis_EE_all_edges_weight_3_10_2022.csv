@@ -1,0 +1,136 @@
+source,target,weight
+oxidative stress,cholestasis,1
+tight junction disruption,bile canalicular changes,1
+oxidative stress,bile canalicular changes,1
+oxidative stress,tight junction disruption,1
+novel_AhR activiation,necrosis,1
+novel_AhR activiation,cholestasis,1
+novel_AhR activiation,intracellular bile acid accumulation,1
+inflammation,cholestasis,1
+inflammation,necrosis,1
+oxidative stress,necrosis,1
+necrosis,cholestasis,1
+novel_Crebh activation,oxidative stress,1
+novel_Crebh activation,ER stress/unfolded protein response,1
+novel_Crebh activation,intracellular bile acid accumulation,1
+intracellular bile acid accumulation,inflammation,1
+inflammation,ER stress/unfolded protein response,1
+inflammation,mitochondrial impairment,1
+bile canalicular changes,cholestasis,2
+bile canalicular changes,bile canalicular changes,1
+bile canalicular changes,intracellular bile acid accumulation,1
+intracellular bile acid accumulation,oxidative stress,1
+intracellular bile acid accumulation,apoptosis,1
+ER stress/unfolded protein response,bile canalicular changes,1
+intracellular bile acid accumulation,cholestasis,1
+novel_GSH conjugation,cholestasis,1
+non_specified cell death,cholestasis,1
+mitochondrial impairment,cholestasis,1
+intracellular bile acid accumulation,necrosis,1
+Cytoskeleton integrity disruption,cholestasis,1
+intracellular bile acid accumulation,non_specified cell death,1
+intracellular bile acid accumulation,novel_procoagulant activity,1
+apoptosis,cholestasis,1
+inflammation,apoptosis,1
+oxidative stress,apoptosis,1
+ER stress/unfolded protein response,apoptosis,1
+ER stress/unfolded protein response,cholestasis,1
+bile canalicular changes,apoptosis,1
+tight junction disruption,apoptosis,1
+bile canalicular changes,tight junction disruption,1
+intracellular bile acid accumulation,ER stress/unfolded protein response,1
+bile canalicular changes,inflammation,1
+bile canalicular changes,oxidative stress,1
+bile canalicular changes,mitochondrial impairment,1
+ER stress/unfolded protein response,autophagy,1
+oxidative stress,autophagy,1
+ER stress/unfolded protein response,necrosis,1
+oxidative stress,ER stress/unfolded protein response,1
+ER stress/unfolded protein response,necropoptosis,1
+oxidative stress,necropoptosis,1
+novel_biliary epithelial cell proliferation,cholestasis,1
+oxidative stress,novel_hepatocanalicular dysfunction,1
+nuclear receptor activation,bile acid synthesis changes,1
+intracellular bile acid accumulation,nuclear receptor activation,1
+oxidative stress,mitochondrial impairment,1
+novel_ERK1/2_LKB1_AMPK pathway activation,cholestasis,1
+tight junction disruption,oxidative stress,1
+tight junction disruption,cholestasis,1
+tight junction disruption,necrosis,1
+tight junction disruption,intracellular bile acid accumulation,1
+Cytoskeleton integrity disruption,inflammation,1
+Cytoskeleton integrity disruption,apoptosis,1
+inflammation,oxidative stress,1
+oxidative stress,inflammation,1
+cholestasis,inflammation,1
+bile canalicular changes,necrosis,1
+novel_Bile acid membrane receptor changes,cholestasis,1
+novel_Lipogenesis,cholestasis,1
+novel_PI3K/Akt signaling pathway,cholestasis,1
+novel_lipid homeostasis,novel_Cholestasis_associated hepatic steatosis,1
+novel_Fibrosis,cholestasis,1
+ER stress/unfolded protein response,intracellular bile acid accumulation,1
+oxidative stress,intracellular bile acid accumulation,1
+novel_Sirt1,cholestasis,1
+cholestasis,novel_Ppara inhibition,1
+inflammation,novel_Ppara inhibition,1
+oxidative stress,novel_Ppara inhibition,1
+novel_Ppara inhibition,cholestasis,1
+novel_Increased expression amphiregulin (AREG) = EGFR ligand,cholestasis,1
+nuclear receptor changes,transporter changes,3
+nuclear receptor changes,bile acid synthesis changes,1
+bile acid synthesis changes,transporter changes,1
+transporter changes,nuclear receptor changes,1
+transporter changes,bile acid synthesis changes,1
+transporter changes,bile acid metabolism changes,1
+nuclear receptor changes,nuclear receptor changes,1
+bile acid metabolism changes,nuclear receptor changes,1
+bile acid synthesis changes,nuclear receptor changes,1
+intracellular bile acid accumulation,nuclear receptor changes,1
+transporter changes,intracellular bile acid accumulation,2
+nuclear receptor changes,bile acid metabolism changes,1
+transporter changes,cholestasis,3
+transporter changes,oxidative stress,2
+transporter changes,inflammation,1
+transporter changes,mitochondrial impairment,1
+transporter changes,ER stress/unfolded protein response,1
+transporter changes,apoptosis,1
+bile acid synthesis changes,cholestasis,1
+transporter changes,non_specified cell death,1
+transporter changes,novel_lipid homeostasis,1
+nuclear receptor changes,oxidative stress,1
+nuclear receptor changes,cholestasis,2
+nuclear receptor changes,inflammation,1
+nuclear receptor changes,mitochondrial impairment,1
+nuclear receptor changes,apoptosis,1
+nuclear receptor changes,intracellular bile acid accumulation,1
+nuclear receptor changes,novel_proatherogenic events,1
+bile acid metabolism changes,ER stress/unfolded protein response,1
+bile acid synthesis changes,non_specified cell death,1
+bile acid synthesis changes,inflammation,1
+bile acid synthesis changes,oxidative stress,1
+bile acid metabolism changes,inflammation,1
+bile acid metabolism changes,cholestasis,1
+bile acid synthesis changes,intracellular bile acid accumulation,1
+bile acid metabolism changes,intracellular bile acid accumulation,1
+bile acid metabolism changes,oxidative stress,1
+transporter changes,necrosis,1
+Cytoskeleton integrity disruption,transporter changes,1
+nuclear receptor activation,transporter changes,1
+ER stress/unfolded protein response,transporter changes,1
+oxidative stress,transporter changes,1
+novel_ hepatocyte nuclear factor_1 alpha (HNF_1a) decreased expression,transporter changes,1
+cholestasis,transporter changes,1
+novel_AhR activiation,nuclear receptor changes,1
+mitochondrial impairment,nuclear receptor changes,1
+novel_canalicular network formation,nuclear receptor changes,1
+bile canalicular changes,nuclear receptor changes,1
+novel_ERK1/2_LKB1_AMPK pathway activation,nuclear receptor changes,1
+novel_ hepatocyte nuclear factor_1 alpha (HNF_1a) decreased expression,nuclear receptor changes,1
+novel_ hepatocyte nuclear factor_1 alpha (HNF_1a) decreased expression,bile acid synthesis changes,1
+novel_Sirt1,nuclear receptor changes,1
+cholestasis,nuclear receptor changes,1
+nuclear receptor activation,bile acid metabolism changes,1
+intracellular bile acid accumulation,bile acid synthesis changes,1
+novel_Sirt1,bile acid synthesis changes,1
+cholestasis,bile acid synthesis changes,1
