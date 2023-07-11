@@ -1,6 +1,6 @@
 # xploreaop
 
-## `{xploreaop}` is an R package and Shiny webapplication to visualize Adverse 
+`{xploreaop}` is an R package and Shiny webapplication to visualize Adverse 
 Outcome Pathway (AOP) networks. So far data has been included to interactively 
 explore the AOPs for two liver outcomes: Cholestasis and Steatosis.
 
