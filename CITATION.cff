@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Teunis
+    given-names: Marc
+    orcid: https://orcid.org/0000-0002-3496-6669
+- - family-names: Corradi
+    given-names: Marie
+    orcid: https://orcid.org/0000-0001-8185-5913
+title: "xploreaop; An interactive AOP data exploration dashboard"
+version: 0.1.1.
+doi: https://doi.org/10.5281/zenodo.8416810
+date-released: 2023-09-01
