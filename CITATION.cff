@@ -4,7 +4,7 @@ authors:
   - family-names: Teunis
     given-names: Marc
     orcid: https://orcid.org/0000-0002-3496-6669
-- - family-names: Corradi
+  - family-names: Corradi
     given-names: Marie
     orcid: https://orcid.org/0000-0001-8185-5913
 title: "xploreaop; An interactive AOP data exploration dashboard"
