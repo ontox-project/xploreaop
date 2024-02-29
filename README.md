@@ -6,6 +6,11 @@
 Outcome Pathway (AOP) networks. So far data has been included to interactively 
 explore the AOPs for two liver outcomes: Cholestasis and Steatosis.
 
+## Publication
+This Shiny app was developed in conjunction with the scientific publication 
+
+van Ertvelde, J., Verhoeven, A., Maerten, A., Cooreman, A., Santos Rodrigues, B. D., Sanz-Serrano, J., Mihajlovic, M., Tripodi, I., Teunis, M., Jover, R., Luechtefeld, T., Vanhaecke, T., Jiang, J., & Vinken, M. (2023). Optimization of an adverse outcome pathway network on chemical-induced cholestasis using an artificial intelligence-assisted data collection and confidence level quantification approach. Journal of biomedical informatics, 145, 104465. https://doi.org/10.1016/j.jbi.2023.104465
+
 ## Installation
 This Github repository is an R package and can be installed in two ways:
 
